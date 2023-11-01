@@ -1,0 +1,25 @@
+#calc {
+  background-color: green;
+  height: 30px;
+  color: aliceblue;
+  border: 0;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-top: 20px;
+}
+#calc:hover {
+  background-color: rgb(8, 107, 8);
+  height: 30px;
+  color: aliceblue;
+  border: 0;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.calc-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#result {
+  margin-top: 20px;
+}
